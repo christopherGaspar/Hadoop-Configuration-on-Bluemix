@@ -1,4 +1,15 @@
-
+auth_url : https://identity.open.softlayer.com
+project : object_storage_e3f6ba78_5c40_40b3_8f1b_16d375b28097
+project_id : e4a7c55b22a140ddadd510872b3414a3
+region : dallas
+user_id : c984c9f8643c46b8819787e4e1894098
+domain_id : 740aba96a51f4fb29503c99b5d3c24dc
+domain_name : 848999
+username : admin_e3f6ba78-5c40-40b3-8f1b-16d375b28097_656f9479ec67
+password : o-4w_=!~!.~t2uMR
+filename : flight.csv
+container : notebooks
+tenantId : s843-be9d45e192e95c-cd6fd34ca84d
 # The task of this analysis is to find the average number of passengers in each airline of US Region
 
 
